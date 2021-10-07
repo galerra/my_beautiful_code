@@ -7,5 +7,6 @@ This file belongs entirely to my favorite educational institution - SUNC NCFU. M
 2. Profession cook
 3. Profession cs_player
 4. Profession informatic_child 
+
 Please, give me a 'five', I tried to write the most complex program! Please, my dear teacher, invest your money in my StartUp!You will raise a lot of money!
 
